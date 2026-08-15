@@ -7,10 +7,33 @@ Software engineer building scalable web applications, real-time communication to
 
 ## 🛠️ Technical Skills
 
-* **Languages & Frameworks:** Python, TypeScript, JavaScript, Java, Django, FastAPI, React, Next.js
-* **Messaging & Infrastructure:** WebSockets, WebRTC, Celery, RabbitMQ, Redis, Nginx, Docker, CI/CD, Microservices
-* **Databases & Storage:** PostgreSQL, MongoDB, MySQL
-* **Applied AI & ML:** PyTorch, Transformers, Retrieval-Augmented Generation (RAG), Fine-Tuning & Deploying TTS Models, NLP Pipelines
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### Messaging, DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Applied AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -25,8 +48,8 @@ Software engineer building scalable web applications, real-time communication to
 
 ## 📫 Get in Touch
 
-* **Email:** [mahdi.behnam20@gmail.com](mailto:mahdi.behnam20@gmail.com)
-* **LinkedIn:** [linkedin.com/in/mahdi-behnam](https://linkedin.com/in/mahdi-behnam)
-* **Location:** Tabriz, Iran *(Open to Remote & Global Relocation)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi%20Behnam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-behnam)
+[![Gmail](https://img.shields.io/badge/Gmail-mahdi.behnam20%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdi.behnam20@gmail.com)
+![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran%20(Open%20to%20Remote%20%26%20Relocation)-grey?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
