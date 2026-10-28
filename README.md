@@ -1,5 +1,6 @@
 # Hi, I'm Mahdi Behnam 👋
 ### Software Engineer | Full-Stack Development & Applied AI
+🌐 [mahdibehnam.pages.dev](https://mahdibehnam.pages.dev)
 
 Software engineer building scalable web applications, real-time communication tools, and production-grade AI features. Currently developing full-stack systems, web applications, and AI pipelines at AppForLanguage, supporting a platform with over 200,000 active users.
 
@@ -48,6 +49,7 @@ Software engineer building scalable web applications, real-time communication to
 
 ## 📫 Get in Touch
 
+[![Website](https://img.shields.io/badge/Website-mahdibehnam.pages.dev-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://mahdibehnam.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahdi%20Behnam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-behnam)
 [![Gmail](https://img.shields.io/badge/Gmail-mahdi.behnam20%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahdi.behnam20@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Tabriz%2C%20Iran%20(Open%20to%20Remote%20%26%20Relocation)-grey?style=flat-square&logo=googlemaps&logoColor=white)
